@@ -1,0 +1,10 @@
+name: glasgow-2026
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - requests
+  - matplotlib
+  - statsmodels
+  - jupyterlab
+
